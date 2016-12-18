@@ -1,4 +1,4 @@
-# tech_stack-app
+# tech-stack
 A React Native application implementing Redux logic.
 
 ## Source
